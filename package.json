@@ -1,33 +1,27 @@
 {
-<<<<<<< HEAD
-    "name": "server",
-    "version": "1.0.0",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "node",
-        "React",
-        "Express"
-    ],
-    "author": "Kalpesh Patil",
-    "license": "ISC",
-    "description": "",
-    "dependencies": {
-        "cors": "^2.8.5",
-        "express": "^5.1.0",
-        "moongose": "^1.0.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Kalpeshyp/E-comm.git"
-    },
-    "devDependencies": {
-        "nodemon": "^3.1.10"
-    }
-=======
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "React",
+    "Express"
+  ],
+  "author": "Kalpesh Patil",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "moongose": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
   "name": "client",
   "private": true,
   "version": "0.0.0",
@@ -54,5 +48,4 @@
     "globals": "^16.3.0",
     "vite": "^7.1.0"
   }
->>>>>>> b29428be7e7015e1f12355938824c7c292fb6fff
 }
